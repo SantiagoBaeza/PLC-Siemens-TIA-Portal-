@@ -8,7 +8,7 @@ Este repositorio contiene un listado organizado de mis proyectos. Cada uno está
 
 ### 00. Enclavamiento de motor (simulacion).
 - 📅 Fecha: Diciembre 2025
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/cerradura-electronica-keypad)
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-)
 - 🛠️ Tecnologías: PLC Siemens 1200, software TIA Portal V16, Memorias virtuales.
 - 📄 Descripción: Sistema que permite mantener un motor encedido aunque el boton de inicio deje de presionarse.
 
