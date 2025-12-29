@@ -1,3 +1,4 @@
+[⬅️ Volver a "Proyectos con PLC/HMI/SCADA"](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
 # Recopilacion de proyectos con PLC
 
 Este repositorio contiene un listado organizado de mis proyectos. Cada uno está documentado y alojado en su propio repositorio individual.
