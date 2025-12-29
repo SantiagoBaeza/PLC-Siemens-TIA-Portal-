@@ -23,4 +23,4 @@ Este repositorio contiene un listado organizado de mis proyectos. Cada uno está
   
 ---
 
-> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
+> 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
