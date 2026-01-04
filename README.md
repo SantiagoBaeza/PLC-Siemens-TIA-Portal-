@@ -44,4 +44,11 @@ Este repositorio reúne `📘 proyectos prácticos` y `📗 conceptos importante
 - 🛠️ Tecnologías: ...
 - 📄 Descripción: ...
 
+---
+
+## Objetivo
+Este repositorio tiene como propósito reunir tanto proyectos prácticos como conceptos fundamentales de programación en PLC con TIA Portal. La meta es ofrecer un espacio que documente ejercicios, simulaciones y buenas prácticas de Ladder, junto con proyectos completos, de manera que sirva como referencia de aprendizaje y como portafolio técnico.
+
+---
+
 > 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
