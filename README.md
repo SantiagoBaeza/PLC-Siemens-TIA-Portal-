@@ -1,11 +1,12 @@
 [⬅️ Volver a "Proyectos con PLC/HMI/SCADA"](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
+
 # Recopilacion de proyectos con PLC
 
-Este repositorio contiene un listado organizado de mis proyectos. Cada uno está documentado y alojado en su propio repositorio individual.
+Este repositorio reúne `📘 proyectos prácticos` y `📗 conceptos importantes` de programación en PLC. Cada proyecto está documentado y alojado en su propio repositorio individual, mientras que los apuntes ilustran buenas prácticas y simulaciones de errores comunes.
 
 ---
 
-## 📘 Índice de Proyectos
+## 📗 Conceptos importantes de Ladder
 
 ### 00. Enclavamiento de motor (simulacion).
 - 📅 Fecha: Diciembre 2025
@@ -13,15 +14,11 @@ Este repositorio contiene un listado organizado de mis proyectos. Cada uno está
 - 🛠️ Tecnologías: PLC Siemens 1200, software TIA Portal V16, Memorias virtuales.
 - 📄 Descripción: Sistema que permite mantener un motor encedido aunque el boton de inicio deje de presionarse.
 
----
-
 ### 01. Repetición de señales en PLC (simulación de error)
 - 📅 Fecha: Diciembre 2025
 - 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/tree/main)
 - 🛠️ Tecnologías: PLC Siemens S7-1200, software TIA Portal V16, Memorias virtuales
 - 📄 Descripción: - Simulación que demuestra por qué no se deben repetir bobinas de salida en distintos segmentos. Aunque el primer segmento muestra que `motor3` se enciende, el segundo revela que no recibe energía, evidenciando el error. Este tipo de fallas puede pasar desapercibido y generar mala práctica profesional.
-
----
 
 ### 02. Uso de funciones SET y RESET en PLC
 
@@ -31,14 +28,20 @@ Este repositorio contiene un listado organizado de mis proyectos. Cada uno está
 - 📄 Descripción: Este proyecto muestra cómo utilizar las funciones SET y RESET en programación de PLCs para controlar salidas de forma más intuitiva.  
   A partir del ejercicio anterior sobre repetición de bobinas, se implementa una lógica de enclavamiento usando bobinas de tipo SET y RESET, junto con botones de inicio y parada.  
   Las capturas documentan el comportamiento del motor en cada etapa de la simulación, y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
-  
----
 
 ### 03. ... 
 - 📅 Fecha: ...
 - 🔗 [en construccion](pegar_enlace)
 - 🛠️ Tecnologías: ...
 - 📄 Descripción: ...
+
 ---
+
+## 📘 Índice de Proyectos
+### 00. ... 
+- 📅 Fecha: ...
+- 🔗 [en construccion](pegar_enlace)
+- 🛠️ Tecnologías: ...
+- 📄 Descripción: ...
 
 > 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
