@@ -1,54 +1,24 @@
 [⬅️ Volver a "Proyectos con PLC/HMI/SCADA"](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
 
-# Recopilacion de proyectos con PLC
+# Recopilación de proyectos con PLC
 
-Este repositorio reúne `📘 proyectos prácticos` y `📗 conceptos importantes` de programación en PLC. Cada proyecto está documentado y alojado en su propio repositorio individual, mientras que los apuntes ilustran buenas prácticas y simulaciones de errores comunes.
-
----
-
-## 📗 Conceptos importantes de Ladder
-
-### 00. Enclavamiento de motor (simulacion).
-- 📅 Fecha: Diciembre 2025
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-)
-- 🛠️ Tecnologías: PLC Siemens 1200, software TIA Portal V16, Memorias virtuales.
-- 📄 Descripción: Sistema que permite mantener un motor encedido aunque el boton de inicio deje de presionarse.
-
-### 01. Repetición de señales en PLC (simulación de error)
-- 📅 Fecha: Diciembre 2025
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/tree/main)
-- 🛠️ Tecnologías: PLC Siemens S7-1200, software TIA Portal V16, Memorias virtuales
-- 📄 Descripción: - Simulación que demuestra por qué no se deben repetir bobinas de salida en distintos segmentos. Aunque el primer segmento muestra que `motor3` se enciende, el segundo revela que no recibe energía, evidenciando el error. Este tipo de fallas puede pasar desapercibido y generar mala práctica profesional.
-
-### 02. Uso de funciones SET y RESET en PLC
-
-- 📅 Fecha: Enero 2026  
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Uso-de-funciones-SET-y-RESET-en-PLC/tree/main)  
-- 🛠️ Tecnologías: Siemens S7-1200 / TIA Portal / Ladder (LAD)  
-- 📄 Descripción: Este proyecto muestra cómo utilizar las funciones SET y RESET en programación de PLCs para controlar salidas de forma más intuitiva.  
-  A partir del ejercicio anterior sobre repetición de bobinas, se implementa una lógica de enclavamiento usando bobinas de tipo SET y RESET, junto con botones de inicio y parada.  
-  Las capturas documentan el comportamiento del motor en cada etapa de la simulación, y el archivo del proyecto está disponible para abrirlo directamente en TIA Portal.
-
-### 03. ... 
-- 📅 Fecha: ...
-- 🔗 [en construccion](pegar_enlace)
-- 🛠️ Tecnologías: ...
-- 📄 Descripción: ...
+Este repositorio reúne `📘 proyectos prácticos` de programación en PLC, desarrollados principalmente con **Siemens S7‑1200** y el entorno **TIA Portal**.  
+Cada proyecto está documentado y alojado en su propio repositorio individual, incluyendo descripciones técnicas, capturas de pantalla y archivos listos para abrir en el software.  
 
 ---
 
 ## 📘 Índice de Proyectos
-### 00. ... 
+### 00. ...
 - 📅 Fecha: ...
-- 🔗 [en construccion](pegar_enlace)
+- 🔗 [en construcción](pegar_enlace)
 - 🛠️ Tecnologías: ...
 - 📄 Descripción: ...
 
 ---
 
-## Objetivo
-Este repositorio tiene como propósito reunir tanto proyectos prácticos como conceptos fundamentales de programación en PLC con TIA Portal. La meta es ofrecer un espacio que documente ejercicios, simulaciones y buenas prácticas de Ladder, junto con proyectos completos, de manera que sirva como referencia de aprendizaje y como portafolio técnico.
+## Objetivos
+Este repositorio busca reunir proyectos prácticos de programación en PLC, organizados y documentados para mostrar mis competencias en TIA Portal y en la implementación de lógicas de control industrial. Su propósito es funcionar como un portafolio profesional que refleje mi experiencia aplicada en automatización, facilite el aprendizaje y la reutilización de cada proyecto, y evidencie una evolución progresiva con trabajos cada vez más completos y el uso de nuevas tecnologías.
 
 ---
 
-> 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
+> 🧩 Estos espacios están en construcción y se actualizan de forma frecuente.
